@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="title_activity_sun">Sun</string>
+</resources>
